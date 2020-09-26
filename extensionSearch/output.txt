@@ -1,0 +1,30 @@
+Title : .cpp
+Category :  Developer Files
+Type :  C++ Source Code File
+Description :  A CPP file is a source code file written in C++. a popular programming language that adds features such as object-oriented programming to C.  It may be a standalone program. containing all the code or one of many files referenced in a development project.  CPP files must be compiled by a C++ compiler for the target platform before the code can be run.
+Application :  Microsoft Visual Studio Code|Eclipse IDE for C Developers|BloodshedSoftware Dev-C++|Eclipse IDE for C Developers|Freescale CodeWarrior Development Tools|Eclipse IDE for C Developers
+Reference  :  https://fileinfo.com//extension/cpp
+
+Not valid extension!
+
+Title : .r
+Category :  Developer Files
+Type :  R Script File
+Description :  An R file is a script written in R. a programming language used for statistical analysis and graphing purposes.  It contains code that can be executed within the R software environment.  R files may include commands that create objects (functions. values. etc.) and produce visualizations of the computed data.
+Application :  Ratfor|Ratfor|Ratfor
+Reference  :  https://fileinfo.com//extension/r
+
+Title : .PHP
+Category :  Source File
+Type :  PHP File
+Description :  PHP is a programming language that is commonly used by website developers.
+Application :  Notepad++
+Reference  :  https://www.openwith.org/file-extensions/php/541
+
+Title : .c
+Category :  Developer Files
+Type :  C/C++ Source Code File
+Description :  A C file is a source code file for a C or C++ program.  It may include an entire program's source code. or may be one of many source files referenced within a programming project.  C files can be edited using a basic text editor. but will not show syntax highlighting like most software development programs do.
+Application :  Microsoft Visual Studio Code|Eclipse IDE for C Developers|Borland C++Builder|BloodshedSoftware Dev-C++|ZinjaI|Eclipse IDE for C Developers|Freescale CodeWarrior Development Tools|ZinjaI|Eclipse IDE for C Developers|ZinjaI
+Reference  :  https://fileinfo.com//extension/c
+
